@@ -43,12 +43,12 @@ Screenshot of the general overview of the site in mobile view.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Challenge Solution](https://www.frontendmentor.io/solutions/a-collaborative-project-featuring-a-desktopfirst-workflow-S-rmJH2Ps)
+- Live Site URL: [Loopstudios](https://hungry-kilby-fc41c0.netlify.app/)
 
 ## Our process
 
-- [Ak] - [Veronika](#authors) set up the base project by _creating the GitHub repository_, _setting up global styling_, _including the required assets_, and so on. I then proceeded to code the _header_ and _footer_ sections of the project and after I was done, she took over and worked on the _Hero_ and _Gallery_ sections.
+- [AK] - [Veronika](#authors) set up the base project by _creating the GitHub repository_, _setting up global styling_, _including the required assets_, and so on. I then proceeded to code the _header_ and _footer_ sections of the project and after I was done, she took over and worked on the _Hero_ and _Gallery_ sections.
 
   During the entire project life cycle we exchanged thoughts and ideas on how to make the project meet web standards and kept track of our overall progress.
 
